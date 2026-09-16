@@ -103,4 +103,3 @@ total:
 ---
 
 ---
-{"id":233227862,"author":{"login":"James4Ever0","id":103997068,"node_id":"U_kgDOBjLejA","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOLANAmc4N5sZW","tag_name":"v1.0.5","target_commitish":"main","name":"First source code release","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-07-17T12:36:58Z","updated_at":"2025-07-17T15:01:51Z","published_at":"2025-07-17T15:01:51Z","assets":[],"body":"Fix dependency issues"}
